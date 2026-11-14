@@ -1,10 +1,10 @@
 # Why is AI-generated language so hard to understand?
 ### 为什么 AI 生成的语言如此难以理解？—— 心理语言学对齐与反极端压缩工程
 
-[![CI](https://github.com/daybydaymylove-max/Why-is-AI-generated-language-so-hard-to-understand/actions/workflows/ci.yml/badge.svg)](https://github.com/daybydaymylove-max/Why-is-AI-generated-language-so-hard-to-understand/actions/workflows/ci.yml)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2610.29162v1-b31b1b.svg)](https://arxiv.org/html/2610.29162v1)
+[![Tests](https://img.shields.io/badge/tests-14%20passed-brightgreen.svg)](#七-单元测试与极限边界防御)
 
 > 本开源项目基于纽约大学（NYU）与德克萨斯大学奥斯汀分校（UT Austin）前沿学术论文 **arXiv:2610.29162v1**: *Why is AI-generated language so hard to understand?* (Thomas Hikaru Clark, Matias B. Martin, Kyle Mahowald)。  
 > 提供了针对 AI 文本“难懂综合征”的**全景理论剖析**、**自动化心理语言学审查引擎 (Intelligibility Linter)**、**四步解耦重构流水线 (Text Decoupler)**，以及配套的 **AI 代理精确 Skill 规范**。
